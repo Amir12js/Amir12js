@@ -13,20 +13,9 @@
 
 ## About me
 
-I've been writing code for about 3 to 4 years now. Started with simple scripts, ended up building full platforms. Most of my work is at the intersection of web development and infrastructure. I like understanding how things work under the hood, not just getting them to run.
+Full Stack Developer working across the entire stack, from building UIs to setting up backend services and keeping infrastructure running. I care about writing clean code and building things that actually scale.
 
-I'm currently running RenkHost, a small platform I started myself. It handles web hosting and Discord bot infrastructure for other developers. Building and operating it taught me more than any tutorial ever could.
-
-When I'm not shipping features I'm usually reading up on security. Web app vulnerabilities, server hardening, that kind of thing. Not for any certificate, just because I find it genuinely interesting.
-
-
----
-
-## Projects
-
-**[RenkHost](https://renkhost.vip)** — Umbrella company behind multiple web services and infrastructure projects.
-
-**[RenkBots](https://renkhost.vip/renkbots)** — A dedicated service for Discord bots. Reliable, fast, built for scale.
+Currently working on [RenkHost](https://renkhost.vip), an umbrella platform behind multiple web services including [RenkBots](https://renkhost.vip/renkbots), a hosting service for Discord bots.
 
 ---
 
