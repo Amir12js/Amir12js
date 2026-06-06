@@ -2,7 +2,7 @@
 
 <h1>Amir · Amir12js</h1>
 
-<p><b>Full Stack Engineer · Security & DevOps</b></p>
+<p><b>Full Stack Developer</b></p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Amir12js&style=flat-square&color=0969da&label=Profile+Views)](https://github.com/Amir12js)
 [![Followers](https://img.shields.io/github/followers/Amir12js?style=flat-square&color=0969da&label=Followers)](https://github.com/Amir12js?tab=followers)
