@@ -46,14 +46,3 @@ When I'm not building I'm usually looking into security vulnerabilities or contr
 **[RenkHost](https://renkhost.vip)** — Web hosting platform I founded and still run solo. Handles deployment, server management and client infrastructure. Built with Docker, Nginx and a custom React dashboard.
 
 **[RenkBots](https://renkhost.vip/renkbots)** — Discord bot hosting on top of RenkHost. Each bot runs in its own isolated container. Focused on reliability and zero-downtime operations.
-
----
-
-## Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Amir12js&show_icons=true&theme=default&count_private=true&border_color=e1e4e8&title_color=24292f&icon_color=0969da&text_color=57606a"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir12js&layout=compact&theme=default&border_color=e1e4e8&title_color=24292f&text_color=57606a"/>
-
-</div>
