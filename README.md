@@ -19,6 +19,15 @@ I'm currently running RenkHost, a small platform I started myself. It handles we
 
 When I'm not shipping features I'm usually reading up on security. Web app vulnerabilities, server hardening, that kind of thing. Not for any certificate, just because I find it genuinely interesting.
 
+
+---
+
+## Projects
+
+**[RenkHost](https://renkhost.vip)** — Umbrella company behind multiple web services and infrastructure projects.
+
+**[RenkBots](https://renkhost.vip/renkbots)** — A dedicated service for Discord bots. Reliable, fast, built for scale.
+
 ---
 
 ## Tech Stack
@@ -38,14 +47,6 @@ When I'm not shipping features I'm usually reading up on security. Web app vulne
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
----
-
-## Projects
-
-**[RenkHost](https://renkhost.vip)** — Web hosting platform I founded and still run solo. Handles deployment, server management and client infrastructure. Built with Docker, Nginx and a custom React dashboard.
-
-**[RenkBots](https://renkhost.vip/renkbots)** — Discord bot hosting on top of RenkHost. Each bot runs in its own isolated container. Focused on reliability and zero-downtime operations.
 
 ---
 
